@@ -1,0 +1,87 @@
+/*index.html*/
+body{
+	font-family: 'Indie Flower', cursive;
+}
+
+img{
+	width: 100%;
+}
+
+.quitar-float{
+	float: none;
+}
+
+.espacio-arriba{
+	margin-top: 10%;
+}
+/*Animacion*/
+.retraso-1{
+	-webkit-animation-delay: 0.5s;
+	-moz-animation-delay: 0.5s;/*reproduccion mozilla profijo -moz*/
+	animation-delay: 0.5s;
+}
+
+.retraso-2{
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+
+/*La mejor comida del mundo*/
+.lobster{
+	font-family: 'Lobster', cursive;
+}
+
+.grande{
+	font-size: 3em;
+}
+
+/*Link*/
+a, .otrocolor{
+	color: #DE7047;	
+}
+
+.espacio-derecha{
+	margin-right: 1em;
+}
+
+.colorletra{
+	color: #056675;
+}
+
+/*comida.html*/
+
+/*Quitar vinetas lista*/
+.nolista li{
+	list-style-type: none; 
+}
+
+/*Quitar margen y espacio a la lista*/
+.nolista{
+	margin: 0;
+	padding: 0;
+}
+
+/*Contenedor navegador*/
+.segris{
+	background-color: #eee;
+}
+
+.paddinglargo{
+	padding: 5px 10px;
+}
+
+/*Centar contendio bloque y contenido*/
+.inlineblock{
+	float: none;
+	display: inline-block;
+	margin: -4px;
+}
+
+.vete-arriba{
+	vertical-align: top;
+}
+
+.mediano{
+	font-size: 1.5em;
+}
