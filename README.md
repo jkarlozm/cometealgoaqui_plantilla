@@ -21,4 +21,4 @@ Plantilla realizada mientras tomaba un curso en Youtube en el canal de código f
 
 `docker run -dp 3030:80 --name menu jkarlozdhub/menu:v1`
 
-+ [Azure web site](https://.azurewebsites.net/) - también puedes ir directo al sitio alojado en Azure
++ [Azure web site](https://menuweb.azurewebsites.net/) - también puedes ir directo al sitio alojado en AzureAzure
